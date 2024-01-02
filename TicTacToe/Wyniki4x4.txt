@@ -1,0 +1,7 @@
+24-05-2023, 19:23 (Gracz 1 vs Gracz 2), remis
+24-05-2023, 19:36 (Gracz 2 vs Gracz 1), wygrana Gracz 2, ilość ruchów 8
+24-05-2023, 21:36 (Gracz 1 vs Gracz 2), remis
+29-05-2023, 18:33 (Gracz 1 vs Gracz 2), wygrana Gracz 1, ilość ruchów 13
+29-05-2023, 18:43 (Gracz 1 vs Gracz 2), wygrana Gracz 1, ilość ruchów 11
+29-05-2023, 18:44 (Gracz 1 vs Gracz 2), remis
+02-01-2024, 21:51 (Tak vs Nie), wygrana Tak, ilość ruchów 7

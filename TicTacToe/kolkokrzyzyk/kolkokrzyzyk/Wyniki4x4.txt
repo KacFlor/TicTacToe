@@ -1,0 +1,7 @@
+21-05-2023, 10:51 (Gracz 1 vs Gracz 2), remis
+21-05-2023, 10:52 (Gracz 1 vs Gracz 2), remis
+21-05-2023, 10:53 (Adan vs Janusz), wygrana Adan, ilość ruchów 8
+21-05-2023, 10:53 (Gracz 1 vs Gracz 2), wygrana Gracz 1, ilość ruchów 7
+21-05-2023, 10:53 (Gracz 1 vs Gracz 2), wygrana Gracz 1, ilość ruchów 7
+21-05-2023, 10:54 (Fitcher vs Exaver), wygrana Fitcher, ilość ruchów 12
+21-05-2023, 10:54 (A vs B), wygrana A, ilość ruchów 11

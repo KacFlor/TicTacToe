@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="500.0" style="-fx-background-color: #3D4957;" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.kolkokrzyzyk.MenuController">
+   <children>
+      <Button fx:id="X3" layoutX="29.0" layoutY="95.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="235.0" style="-fx-background-color: #eda678;" text="Gra 3X3">
+         <font>
+            <Font size="24.0" />
+         </font></Button>
+      <Button fx:id="X4" layoutX="29.0" layoutY="170.0" mnemonicParsing="false" prefHeight="4.0" prefWidth="235.0" style="-fx-background-color: #eda678;" text="Gra 4X4">
+         <font>
+            <Font size="24.0" />
+         </font></Button>
+      <Label layoutX="29.0" layoutY="25.0" text="Kółko i krzyżyk" textFill="WHITE">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Label>
+      <Button id="dataX4" layoutX="314.0" layoutY="176.0" mnemonicParsing="false" prefHeight="10.0" prefWidth="154.0" style="-fx-background-color: #515D6D;" text="Wyniki 4X4" textFill="WHITE">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Button>
+      <Button layoutX="315.0" layoutY="101.0" mnemonicParsing="false" prefHeight="9.0" prefWidth="153.0" style="-fx-background-color: #515D6D;" text="Wyniki 3X3" textFill="WHITE">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Button>
+      <Label fx:id="Name1" layoutX="29.0" layoutY="300.0" text="Gracz 1" textFill="BLUE">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Label>
+      <AnchorPane layoutX="-4.0" layoutY="263.0" prefHeight="18.0" prefWidth="507.0" style="-fx-background-color: white;" />
+      <Label fx:id="Name2" layoutX="350.0" layoutY="300.0" text="Gracz 2" textFill="RED">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Label>
+      <Button fx:id="setName1" layoutX="29.0" layoutY="354.0" mnemonicParsing="false" prefHeight="27.0" prefWidth="118.0" style="-fx-background-color: #eda678;" text="Zmień nazwę">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button fx:id="setName2" layoutX="350.0" layoutY="354.0" mnemonicParsing="false" prefHeight="27.0" prefWidth="118.0" style="-fx-background-color: #eda678;" text="Zmień nazwę">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button fx:id="setColor1" layoutX="29.0" layoutY="401.0" mnemonicParsing="false" prefHeight="27.0" prefWidth="118.0" style="-fx-background-color: #eda678;" text="Zmień kolor">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button fx:id="setColor2" layoutX="350.0" layoutY="401.0" mnemonicParsing="false" prefHeight="27.0" prefWidth="118.0" style="-fx-background-color: #eda678;" text="Zmień kolor">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <ImageView fitHeight="125.0" fitWidth="118.0" layoutX="191.0" layoutY="425.0" pickOnBounds="true" preserveRatio="true" rotate="37.0">
+         <image>
+            <Image url="@tiktaktoe.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>
